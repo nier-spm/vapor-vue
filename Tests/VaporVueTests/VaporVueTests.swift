@@ -1,5 +1,5 @@
     import XCTest
-    @testable import vapor_vue
+    @testable import VaporVue
 
     final class VaporVueTests: XCTestCase {
         func testExample() {
